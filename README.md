@@ -1,4 +1,4 @@
-<a href="https://www.buymeacoffee.com/therealnavzz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/therealnavzz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a><br/>
 Click the Buy Me a Coffee Button and Support Me, its Important!
 # LSTM_Stocks
 We'll be building a Forecasting Model to predict the trend of a particular stock using Recurrent Neural Networks - LSTM. We will use an Adam Optimizer, Dropout Regularizer, and MSE Loss Function. Phase I of the story discusses the Exploratory Data Analysis on a given Stock using various Plot Functions including but not limited to SNS Plots, Scatter Plots, and Box Plots.
