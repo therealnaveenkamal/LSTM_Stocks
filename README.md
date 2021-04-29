@@ -3,7 +3,7 @@ Click the Buy Me a Coffee Button and Support Me, its Important!
 # LSTM_Stocks
 We'll be building a Forecasting Model to predict the trend of a particular stock using Recurrent Neural Networks - LSTM. We will use an Adam Optimizer, Dropout Regularizer, and MSE Loss Function. Phase I of the story discusses the Exploratory Data Analysis on a given Stock using various Plot Functions including but not limited to SNS Plots, Scatter Plots, and Box Plots.
 
-# Check out My Medium Article for Clear Explanation,[Click Here](https://therealnavzz.medium.com/stock-price-prediction-using-long-short-term-memory-networks-lstms-approach-i-aeaf60c0fd0b)
+# Btw, Check out My Medium Article on this,[Click Here](https://therealnavzz.medium.com/stock-price-prediction-using-long-short-term-memory-networks-lstms-approach-i-aeaf60c0fd0b)
 
 # For Easier Interpretation, I've added links to my Gist File:
 1) [Stock Visualizer](https://gist.github.com/therealnaveenkamal/4e6f5817a4731abedb1a5529d2645cfb)
